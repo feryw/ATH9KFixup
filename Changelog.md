@@ -1,13 +1,7 @@
 ATH9KFixup Changelog
 ====================
 
-#### v1.3.4
-
-- Lilu.kext updated to 1.3.7
-- Added Catalina compatibility
-
 #### v1.3.3
-
 - Performance improvements
 - Lilu.kext updated to 1.3.3
 
