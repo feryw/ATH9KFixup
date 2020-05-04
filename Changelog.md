@@ -1,6 +1,9 @@
 ATH9KFixup Changelog
 ====================
 
+#### v1.4.4
+- Lilu.kext updated to 1.4.4
+
 #### v1.3.3
 - Performance improvements
 - Lilu.kext updated to 1.3.3
