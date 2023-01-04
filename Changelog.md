@@ -1,6 +1,9 @@
 ATH9KFixup Changelog
 ====================
 
+#### v1.6.3
+- Lilu.kext updated to 1.6.3
+
 #### v1.5.4
 - Lilu.kext updated to 1.5.4
 - Added BigSur compatibility
